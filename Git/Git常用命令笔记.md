@@ -6,7 +6,7 @@ git pull origin master
 git mv B.pdf C
 git add .
 git commit -m <将文件B.pdf移动到C文件夹>
-git push -u origin master
+git push -u origin master // 不建议使用 git push --force origin master
 ```
 
 ### 生成密码token
