@@ -15,12 +15,6 @@ git push -u origin master
 Settings  --->  Developer settings  --->  Personal access tokends  ---> Generate new token  --->  repo打对勾   --->  Generate token
 ```
 
-### 同步远程分支
-```
-git fetch --all   将本地所有分支与远程保持同步
-git pull --all  拉取所有分支代码
-```
-
 ### 其他命令
 ```
 查看用户名  git config user.name
