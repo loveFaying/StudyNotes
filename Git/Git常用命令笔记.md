@@ -2,11 +2,11 @@
 ### 在仓库A中移动文件B.pdf到文件夹C
 ```
 git clone <Github HTTPs URL>
-git pull origin master
+git pull origin main(master)
 git mv B.pdf C
 git add .
 git commit -m <将文件B.pdf移动到C文件夹>
-git push -u origin master // 不建议使用 git push --force origin master
+git push -u origin main(master) // 不建议使用 git push --force origin master
 ```
 
 ### 生成密码token
