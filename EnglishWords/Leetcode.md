@@ -3,4 +3,4 @@
 | :--------:   | :-----:   | :----: |
 | code snippet  |  代码段      |       |
 | hello        |  随便写的      |       |
-| asdasdasdaddaddasdqweqweeqweqewq |  666      |       |
+| pointer assignment |  指针赋值      |       |
