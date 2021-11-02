@@ -5,3 +5,4 @@
 | tail node      |  尾结点      |       |
 | pointer assignment |  指针赋值      |       |
 | oscillates | 使振荡 | |
+| entry-points | 入口点 | |
