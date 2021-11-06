@@ -11,4 +11,9 @@
 | Python bindings | Python绑定 | |
 | communication library | 通信库 | |
 | hardware | 硬件 | |
+| execution speed | 执行速度 | |
+| break free | 打破| |
+| limitations | 局限性 | |
+| In general | 通常 | |
+
 
