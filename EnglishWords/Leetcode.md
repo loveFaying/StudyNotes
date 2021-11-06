@@ -8,5 +8,7 @@
 | entry-points | 入口点 | |
 | trapping rain water | 接雨水 | |
 | elevation map | 高度图 | |
-
+| Python bindings | Python绑定 | |
+| communication library | 通信库 | |
+| hardware | 硬件 | |
 
