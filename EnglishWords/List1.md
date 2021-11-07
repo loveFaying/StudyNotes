@@ -18,9 +18,9 @@
 | extra wrinkle | 额外的麻烦 | barrier | 障碍 | manually | 手动的 |
 | round out | 完成 | invocation | 调用 | distro | 发行版 |
 | taste | 体验 | wrap | 包装 | minor | 小的 |
-| minor crime | 未成年人犯罪 | | | | |
-| | | | | | |
-| | | | | | |
+| minor crime | 未成年人犯罪 | platform-specific | 特定平台 | function prototype | 函数原型 |
+| expect | 期望 | reasonable value | 合理的值 | attribute | 属性 |
+| oops | 哎呀 | comment out / center out | 添加注释 | | |
 | | | | | | |
 | | | | | | |
 | | | | | | |
