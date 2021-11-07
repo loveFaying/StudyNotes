@@ -14,6 +14,18 @@
 | execution speed | 执行速度 | explore | 探索 | reference | 引用 | 
 | break free | 打破| mutable | 可变的 |immutable | 不可变的 | 
 | limitations | 局限性 | caller | 调用者 | wondering | 想知道 | 
-| In general | 通常 |  | | | | 
-
-
+| In general | 通常 | memory allocations | 内存分配 | garbage collector | 垃圾收集器 | 
+| extra wrinkle | 额外的麻烦 | barrier | 障碍 | manually | 手动的 |
+| round out | 完成 | invocation | 调用 | distro | 发行版 |
+| taste | 体验 | wrap | 包装 | minor | 小的 |
+| minor crime | 未成年人犯罪 | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
+| | | | | | |
