@@ -20,12 +20,12 @@
 | taste | 体验 | wrap | 包装 | minor | 小的 |
 | minor crime | 未成年人犯罪 | platform-specific | 特定平台 | function prototype | 函数原型 |
 | expect | 期望 | reasonable value | 合理的值 | attribute | 属性 |
-| oops | 哎呀 | comment out / center out | 添加注释 | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
+| oops | 哎呀 | comment out / center out | 添加注释 | functionalities | 功能 |
+| annotation | 注释 | utilities | 实用工具 | comprehensive | 全部的|
+| encounter | 遇到 | compatibility | 兼容性 | compiler | 编译器 |
+| parse | 解析 | manipulating | 操作 | overlap | 重叠，交叠 |
+| inherit | 继承 | deployment | 部署 | basename | 文件名 |
+| dirname | 目录名 | inheritance | 继承 | reuse fields | 重用字段 |
+| specify | 指定 | deprecation | 反对 | registry | 注册、注册表 |
+| neck | 颈部 | codebase | 代码库 |  | |
 | | | | | | |
