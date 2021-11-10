@@ -28,8 +28,8 @@
 | specify | 指定 | deprecation | 反对 | registry | 注册、注册表 |
 | neck | 颈部 | codebase | 代码库 | scenarios | 情节 |
 | extensibility | 可拓展性 | brick | 砖块 | bundles | 束 |
-| from time to time | 优势 | Voxelization | 体素化 | | |
-| | | | | | |
+| from time to time | 优势 | Voxelization | 体素化 | backends | 后端 |
+| dump | 转存 | | | | |
 | | | | | | |
 | | | | | | |
 | | | | | | |
