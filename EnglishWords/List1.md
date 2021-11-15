@@ -29,8 +29,8 @@
 | neck | 颈部 | codebase | 代码库 | scenarios | 情节 |
 | extensibility | 可拓展性 | brick | 砖块 | bundles | 束 |
 | from time to time | 优势 | Voxelization | 体素化 | backends | 后端 |
-| dump | 转存 | | | | |
-| | | | | | |
+| dump | 转存 | convenient | 方便的 | ETA | 估计到达时间(Estimated Time of Arrival) |
+| track the process | 跟踪进度 | | | | |
 | | | | | | |
 | | | | | | |
 | | | | | | |
