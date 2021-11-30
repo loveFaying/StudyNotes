@@ -1,8 +1,10 @@
-# StudyNotes
-本仓库记录一些自己学习计算机相关技术的资料
-- Git版本控制系统
-- C++常用语法知识
-- Linux 常用命令
-- 专业英语单词积累
+### C++
+- C++知识点.md
 
--
+### EnglishWords
+- SwinTransformer.md
+- List1.md
+
+### Git
+- Git常用命令笔记.md
+- git.pdf
