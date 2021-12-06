@@ -30,19 +30,9 @@
 | extensibility | 可拓展性 | brick | 砖块 | bundles | 束 |
 | from time to time | 优势 | Voxelization | 体素化 | backends | 后端 |
 | dump | 转存 | convenient | 方便的 | ETA | 估计到达时间(Estimated Time of Arrival) |
-| track the process | 跟踪进度 | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
+| track the process | 跟踪进度 | image stitching| 图像拼接 | adjascent camera | 相同的相机 |
+| panoramic view | 全景视角 | rather complicated application| 相当复杂的应用 | invlove | 涉及 |
+|  | | | | | |
 | | | | | | |
 | | | | | | |
 | | | | | | |
