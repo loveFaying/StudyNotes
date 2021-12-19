@@ -33,7 +33,7 @@
 | track the process | 跟踪进度 | image stitching| 图像拼接 | adjascent camera | 相同的相机 |
 | panoramic view | 全景视角 | rather complicated application| 相当复杂的应用 | invlove | 涉及 |
 | Epipolar Geometry | 对极几何 | pedestrians | 行人 | vehicles | 车辆 |
-| | | | | | |
+| blurry | 模糊的 | | | | |
 | | | | | | |
 | | | | | | |
 | | | | | | |
