@@ -23,9 +23,9 @@ Settings  --->  Developer settings  --->  Personal access tokends  ---> Generate
 
 ### 设置用户名、密码
 ```
-git config user.name “freedom”
-git config user.password “123456”
-git config user.email “1548429568@qq.com”
+git config user.name "freedom"
+git config user.password "123456"
+git config user.email "1548429568@qq.com"
 # 全局配置
 git config --global user.name <用户名>
 git config --global user.password <密码>
