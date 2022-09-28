@@ -29,5 +29,5 @@ git config user.email "1548429568@qq.com"
 # 全局配置
 git config --global user.name <用户名>
 git config --global user.password <密码>
-git config --global user.password <邮箱>
+git config --global user.email <邮箱>
 ```
